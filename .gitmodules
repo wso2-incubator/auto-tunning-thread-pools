@@ -1,0 +1,24 @@
+[submodule "PerformanceTuning"]
+	path = PerformanceTuning
+	url = https://github.com/smb564/PerformanceTuning.git
+[submodule "PerformanceMonitor"]
+	path = PerformanceMonitor
+	url = https://github.com/smb564/PerformanceMonitor.git
+[submodule "ApacheTuner"]
+	path = ApacheTuner
+	url = https://github.com/smb564/ApacheTuner.git
+[submodule "rbe-tpcw"]
+	path = rbe-tpcw
+	url = https://github.com/smb564/rbe-tpcw.git
+[submodule "TPC-W-Benchmark"]
+	path = TPC-W-Benchmark
+	url = https://github.com/smb564/TPC-W-Benchmark.git
+[submodule "apache-metrics-logstash"]
+	path = apache-metrics-logstash
+	url = https://github.com/smb564/apache-metrics-logstash.git
+[submodule "TomcatPerformanceFilter"]
+	path = TomcatPerformanceFilter
+	url = https://github.com/smb564/TomcatPerformanceFilter.git
+[submodule "adaptive-concurrency-control"]
+	path = adaptive-concurrency-control
+	url = https://github.com/smb564/adaptive-concurrency-control.git
